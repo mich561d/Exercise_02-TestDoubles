@@ -77,6 +77,13 @@ Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.
 ### Mocking frameworks
 
 Investigate mocking frameworks for your preferred language. Choose at least two frameworks, and answer the questions. (One could be Mockito, which we saw in class.)
-1. What are their similarities?
-2. What are their differences?
-3. Which one would you prefer, if any, and why?
+
+**Preferred language:** Java
+
+**Mocking frameworks:** Mockito, JMockit & EasyMock
+
+**1. What are their similarities?** All three of them are easily configured with annotations to help you define mocks and the object-under-test, with runners to make mock injection as painless as possible. They also follow more or less the record-replay-verify pattern.
+
+**2. What are their differences?** They have different sizes of communities and each of the framework has its own pros and cons.
+
+**3. Which one would you prefer, if any, and why?** Mockito, because it has the biggest community, which for me means more documentation to read and understand and more help to find on the internet (and teachers).
