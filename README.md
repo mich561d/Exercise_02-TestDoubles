@@ -28,7 +28,7 @@ By Michael Due - 1. Semester software development student.
 
 **Long story:** Canadian Cancer Therapy Machine (Therac-25, 1986) Designed by Atomic Energy of Canada, Ltd. (AECL):Therac-25 was a software controlled radiation therapy machine used to treat people with cancer. Between 1985 and 1987 Therac-25 machines in four medical centers gave massive overdoses of radiation to six patients. An extensive investigation and report revealed that is some instances operators repeated overdoses because machine display indicated no dose given. Some patients received between 13,000-25,000 rads when 100-200 needed. The result of the excessive radiation exposure resulted in severe injuries and three patients‘ deaths.
 
-**Solution:** Testing the software ability to control the current amount of rads while working in multiple environments would have prevented this lethal mistake.
+**Solution:** Testing the software ability to control the current amount of rads while working in multiple environments and testing the display would have prevented this lethal mistake. Even further setting up limits and control points to secure that the machine could not go past lethal amount without authorization.
 
 ## Two katas
 
