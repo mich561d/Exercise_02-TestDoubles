@@ -52,27 +52,27 @@ Complete the Bowling Game Kata using TDD. The slides can be found here: http://b
 
 Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.
 
-**@Tag:**
+**@Tag:** Used to declare tags for filtering tests, either at the class or method level.
 
-**@Disabled:**
+**@Disabled:** Used to disable a test class or test method.
 
-**@RepeatedTest:**
+**@RepeatedTest:** Denotes that a method is a test template for a repeated test.
 
-**@BeforeEach:**
+**@BeforeEach:** Denotes that the annotated method should be executed before each @Test or @RepeatedTest method in the current class.
 
-**@AfterEach:**
+**@AfterEach:** Denotes that the annotated method should be executed after each @Test or @RepeatedTest method in the current class.
 
-**@BeforeAll:**
+**@BeforeAll:** Denotes that the annotated method should be executed before all @Test or @RepeatedTest methods in the current class.
 
-**@AfterAll:**
+**@AfterAll:** Denotes that the annotated method should be executed after all @Test or @RepeatedTest methods in the current class.
 
-**@DisplayName:**
+**@DisplayName:** Declares a custom display name for the test class or test method.
 
-**@Nested:**
+**@Nested:** Denotes that the annotated class is a non-static nested test class.
 
-**assumeFalse:**
+**assumeFalse:** Validate the given assumption to be false.
 
-**assumeTrue:**
+**assumeTrue:** Validate the given assumption to be true.
 
 ### Mocking frameworks
 
