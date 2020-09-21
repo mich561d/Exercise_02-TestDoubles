@@ -1,7 +1,7 @@
-package java.bowlingGame;
+package bowlingGame;
 
 import junit.framework.TestCase;
-import java.bowlingGame.Game;
+import bowlingGame.Game;
 
 public class BowlingGameTest extends TestCase {
 

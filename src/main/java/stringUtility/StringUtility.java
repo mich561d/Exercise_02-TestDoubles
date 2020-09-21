@@ -1,4 +1,4 @@
-package java.stringUtility;
+package stringUtility;
 
 public class StringUtility {
 
