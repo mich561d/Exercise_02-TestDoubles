@@ -1,7 +1,6 @@
 package bowlingGame;
 
 import junit.framework.TestCase;
-import bowlingGame.Game;
 
 public class BowlingGameTest extends TestCase {
 

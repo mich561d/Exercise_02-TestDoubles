@@ -1,6 +1,5 @@
 package stringUtility;
 
-import stringUtility.StringUtility;
 import org.junit.Assert;
 import org.junit.jupiter.api.Assertions;
 
