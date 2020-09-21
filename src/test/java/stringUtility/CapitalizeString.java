@@ -1,6 +1,6 @@
-package test.java.stringUtility;
+package java.stringUtility;
 
-import main.java.stringUtility.StringUtility;
+import java.stringUtility.StringUtility;
 import org.junit.Assert;
 import org.junit.jupiter.api.Assertions;
 
